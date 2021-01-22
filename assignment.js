@@ -1,6 +1,5 @@
-
+//https://github.com/tareqhassan2014/js-assignment
 //First Solution
-
 function kilometerToMeter(kilometer) {
     let meter = 0;
     if (kilometer > 0) {
